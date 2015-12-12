@@ -7,9 +7,9 @@
 ## 评教过程
 1. 首先通过数字校园统一身份认证系统，登录进校园百合平台
 2. 进入学生评教页面，获取所有待评教的课程信息，包括课程号，班次，课程名称，老师姓名  
-![课程详情页](https://github.com/xNathan/TeachEvalution/raw/master/screenshot/course_details.jpg)  
+![课程详情页](https://github.com/xNathan/TeachEvaluation/raw/master/screenshot/course_details.jpg)  
 3. 进入课程评教页面，填写里面的内容  
-![评教详情页](https://github.com/xNathan/TeachEvalution/raw/master/screenshot/evaluate_detail.jpg)  
+![评教详情页](https://github.com/xNathan/TeachEvaluation/raw/master/screenshot/evaluate_detail.jpg)  
 4. 提交数据，完成评教
 
 ----
