@@ -118,7 +118,7 @@ def evaluate(courseCode, classNO,
 
 def main():
     # 先登录
-    if login()
+    if login():
         evaluate_list = get_evaluate_list()  # 获取待评教课程
         if evaluate_list:
             for item in get_evaluate_list():
